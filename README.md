@@ -1,3 +1,4 @@
+
 # React Ultimate Starter Template
 Template này được sử dụng cho series React Ultimate (Vite) của tác giả Hỏi Dân IT (Eric)
 
@@ -33,3 +34,6 @@ Cách chạy tại chế độ production:
 3. Update file .env.production (nếu cần thiết)
 4. Build dự án: npm run build
 5. Chạy dự án: npm run preview
+=======
+# react-basic
+https://fpt-software.udemy.com/course/hoidanit-react-basic-ultimate/learn/lecture/44163590#overview
