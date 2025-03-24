@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React Ultimate Starter Template
 Template này được sử dụng cho series React Ultimate (Vite) của tác giả Hỏi Dân IT (Eric)
 
